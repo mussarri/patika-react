@@ -1,3 +1,3 @@
 import {getData} from "./function.js"
 
-getData()
+getData(2)
